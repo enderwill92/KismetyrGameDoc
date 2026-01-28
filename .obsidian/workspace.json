@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player.md",
+                "file": "Luck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Player"
+              "title": "Luck"
             }
           },
           {
@@ -195,10 +195,10 @@
   },
   "active": "1947a776b3a92ead",
   "lastOpenFiles": [
-    "Enemies.md",
-    "Player.md",
     "Luck.md",
+    "Player.md",
     "Weapons.md",
+    "Enemies.md",
     "Shitass"
   ]
 }
