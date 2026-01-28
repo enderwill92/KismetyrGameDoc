@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enemies.md",
+                "file": "Weapons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enemies"
+              "title": "Weapons"
             }
           },
           {
@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enemies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Enemies"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enemies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Enemies"
+              "title": "Outgoing links"
             }
           },
           {
@@ -193,11 +192,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "1947a776b3a92ead",
+  "active": "06779d803411945a",
   "lastOpenFiles": [
-    "Weapons.md",
     "Player.md",
+    "Skill Tree.md",
+    "Encounters.md",
+    "Weapons.md",
+    "Merchants.md",
     "Luck.md",
+    "Untitled.md",
+    "Active Items.md",
+    "Untitled",
     "Enemies.md",
     "Shitass"
   ]

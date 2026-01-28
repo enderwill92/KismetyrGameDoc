@@ -8,21 +8,16 @@ Weapon Stats:
 During combat The player can either **Attack** or **Refrain** on their turn. **Attacking** will almost always do damage to an enemy while **Refraining** usually just makes you take less damage, but may have other effects based on the weapon, or just do nothing.
 
 # Attributes
+Attributes help the player or whatever. A weapon can have 2 Attributes, if you attempt to add or change Attributes on a weapon you can't
 - Sharpness *adds to damage stat on weapon*
 - Poison *chance to poison enemy on attack*
 - 
-
-
 
 # Cursed
 usually bad maybe quirky sometimes
 - Spiked *hurts you on attack*
 
-
-
 # Damage
-
-
 
 
 # Block

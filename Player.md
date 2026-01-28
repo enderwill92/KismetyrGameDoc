@@ -2,7 +2,7 @@ The player fucking hates [[Enemies]]
 
 The player can have:
 - 2 [[Weapons]]
-- 1 [[Active Item]]
+- 1 [[Active Items|Active Item]]
 
 Player has:
 - Health
