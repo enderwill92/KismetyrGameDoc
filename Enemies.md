@@ -5,3 +5,5 @@ Basic enemy attacks are:
 - Buff
 - Heal
 
+If an enemy has an additional effect to their action the player can mouse over the icon in fight to learn what exactly it will do
+
